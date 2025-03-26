@@ -1,2 +1,0 @@
-# ThisIsAJumpscare
-jumpscare alert
