@@ -1,5 +1,5 @@
 
 <body>
-<h1><a href="https://lucatube.github.io/ThisIsAJumpscare/">CLICAR</a></h1>
+<h1><a href="jumpscare.html">CLICAR</a></h1>
 </body>
 </html>
