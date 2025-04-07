@@ -13,6 +13,9 @@
   }
 </style>
 </head>
+=======
+
+>>>>>>> fbc69e8cda6cdf8bf8053f1985476d9fcecc7487
 <body>
 <h1><a href="jumpscare.html">CLICAR</a></h1>
 </body>
